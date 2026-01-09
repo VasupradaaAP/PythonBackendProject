@@ -1,6 +1,6 @@
 # 🤖 AI Document Chatbot – RAG System API
 
-A REST API for document-based question answering using **Retrieval-Augmented Generation (RAG)**. Users can upload PDF documents and ask questions to retrieve answers.
+A FAST API for document-based question answering using **Retrieval-Augmented Generation (RAG)**. Users can upload PDF documents and ask questions to retrieve answers.
 
 ---
 
@@ -481,3 +481,4 @@ curl -X DELETE "http://localhost:8000/documents/1"
 
 
 ---
+
