@@ -14,7 +14,7 @@ The core problem is to design and implement a backend system that:
 * Extracts and processes document text
 * Enables **question answering grounded only in uploaded documents**
 * Provides **traceability** by returning retrieved context chunks and sources
-* Exposes all functionality via a **clean, testable REST API**
+* Exposes all functionality via a **clean, testable FAST API**
 
 
 ### 🎯 Use Case Chosen
@@ -481,4 +481,5 @@ curl -X DELETE "http://localhost:8000/documents/1"
 
 
 ---
+
 
